@@ -1,7 +1,5 @@
 public class TestOpenU {
 
-    //Ido Gutman - id: 329200216
-
     public static int kAlmostSearch(int[] a, int num) {
         int low = 0;
         int mid;
